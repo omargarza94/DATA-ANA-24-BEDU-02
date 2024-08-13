@@ -1,0 +1,3 @@
+notebook ###(jupiter notes)
+pandas
+requests 
