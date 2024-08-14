@@ -1,3 +1,6 @@
 notebook ###(jupiter notes)
 pandas
-requests 
+requests
+numpy
+seaborn
+matplotlib
