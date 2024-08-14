@@ -21,6 +21,8 @@ For windows systems.
 ```
 .venv\Scripts\activate
 ```
+### Si el codigo anterior no puede ser ejecutado (mensaje de erro) utilizar la siguiente liena y volver a correr el codigo anterior  "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process"
+
 
 Then you will need install the requirements of your project:
 
